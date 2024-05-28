@@ -1,4 +1,5 @@
 # esbuild-plugin-copy-import
+<a href="https://npm.im/esbuild-plugin-copy-import"><img src="https://badgen.net/npm/v/esbuild-plugin-copy-import"></a> <a href="https://packagephobia.now.sh/result?p=esbuild-plugin-copy-import"><img src="https://packagephobia.now.sh/badge?p=esbuild-plugin-copy-import"></a>
 
 An esbuild plugin that copies imported module to the destination directory and sets the imported value to the relative path.
 
